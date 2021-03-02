@@ -25,6 +25,6 @@ Briefly summarize your client, Artemis Financial, and their software requirement
 
 11. What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 
-Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. 
+    Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. 
 
 12. What from this particular assignment might you want to showcase to a future employer?
