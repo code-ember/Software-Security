@@ -1,6 +1,6 @@
 ## Software Security
 
-### A briefe summarize of the client, Artemis Financial, and their software requirements.
+Brief summarize of the client, Artemis Financial, and their software requirements.
 
 ### Who was the client?
 Artemis Financial is a financial consulting company that develops individualized financial plans for savings, retirement, investments, and insurance for their patrons. They want to implement and apply the most current and effective software security.
